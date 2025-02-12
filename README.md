@@ -1,4 +1,3 @@
-```markdown name=README.md
 # Hi there, I'm Mohamed! 👋
 
 I'm a passionate software developer and technology enthusiast. I love exploring new technologies and building innovative solutions to solve real-world problems.
